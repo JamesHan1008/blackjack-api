@@ -1,0 +1,66 @@
+[
+    {
+        "model": "backend.dealer",
+        "pk": 1,
+        "fields": {
+            "name": "Test1",
+            "decks": 1,
+            "blackjack_payout": 1.5,
+            "hits_soft_17": true,
+            "allow_insurance": true,
+            "allow_surrender": true,
+            "max_split_hands": 2,
+            "allow_resplit_aces": true,
+            "allow_double_after_split": true,
+            "dealer_wins_ties": false
+        }
+    },
+    {
+        "model": "backend.dealer",
+        "pk": 2,
+        "fields": {
+            "name": "Test2",
+            "decks": 2,
+            "blackjack_payout": 1.2,
+            "hits_soft_17": false,
+            "allow_insurance": true,
+            "allow_surrender": true,
+            "max_split_hands": 1,
+            "allow_resplit_aces": false,
+            "allow_double_after_split": false,
+            "dealer_wins_ties": false
+        }
+    },
+    {
+        "model": "backend.dealer",
+        "pk": 3,
+        "fields": {
+            "name": "Test3",
+            "decks": 4,
+            "blackjack_payout": 1.5,
+            "hits_soft_17": true,
+            "allow_insurance": false,
+            "allow_surrender": false,
+            "max_split_hands": 4,
+            "allow_resplit_aces": true,
+            "allow_double_after_split": true,
+            "dealer_wins_ties": true
+        }
+    },
+    {
+        "model": "backend.dealer",
+        "pk": 4,
+        "fields": {
+            "name": "Test4",
+            "decks": 4,
+            "blackjack_payout": 1.2,
+            "hits_soft_17": true,
+            "allow_insurance": false,
+            "allow_surrender": false,
+            "max_split_hands": 4,
+            "allow_resplit_aces": false,
+            "allow_double_after_split": false,
+            "dealer_wins_ties": true
+        }
+    }
+]
