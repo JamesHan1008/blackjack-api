@@ -13,6 +13,8 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 import os
 import dj_database_url
 
+HOST = os.getenv("HOST", "127.0.0.1")
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -27,7 +29,7 @@ SECRET_KEY = "eovd2m#8%%t2$nxc=pey+@h-5xmq77pz1p=oc(j+0r37+pq8d7"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "blackjack-ai.herokuapp.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "jh-blackjack-api.herokuapp.com"]
 
 
 # Application definition
@@ -62,6 +64,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = (
     "localhost:3000",
+    "jh-blackjack-ui.herokuapp.com",
 )
 
 ROOT_URLCONF = "blackjack_project.urls"
@@ -90,7 +93,7 @@ WSGI_APPLICATION = "blackjack_project.wsgi.application"
 
 DATABASES = {
     "default": dj_database_url.config(
-        default=os.getenv("DATABASE_URL")
+        default=os.getenv("DATABASE_URL", "postgres://bj_user:bj_password@127.0.0.1:5432/blackjack_db")
     )
 }
 
@@ -146,7 +149,7 @@ CHANNEL_LAYERS = {
     "default": {
         "BACKEND": "channels_redis.core.RedisChannelLayer",
         "CONFIG": {
-            "hosts": [("127.0.0.1", 6379)],
+            "hosts": [(HOST, 6379)],
         },
     },
 }
