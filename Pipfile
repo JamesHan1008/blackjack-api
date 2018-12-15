@@ -16,6 +16,7 @@ pytest-django = "*"
 gunicorn = "*"
 dj-database-url = "*"
 whitenoise = "*"
+pandas = "*"
 
 [dev-packages]
 

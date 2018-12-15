@@ -1,3 +1,5 @@
+from enum import Enum
+
 from django.db import models
 
 class Dealer(models.Model):
@@ -15,3 +17,24 @@ class Dealer(models.Model):
 
     def __str__(self):
         return self.name
+
+    def get_rules_dict(self):
+        return {
+            "decks": self.decks,
+            "blackjack_payout": self.blackjack_payout,
+            "hits_soft_17": self.hits_soft_17,
+            "allow_insurance": self.allow_insurance,
+            "allow_surrender": self.allow_surrender,
+            "max_split_hands": self.max_split_hands,
+            "allow_resplit_aces": self.allow_resplit_aces,
+            "allow_double_after_split": self.allow_double_after_split,
+            "dealer_wins_ties": self.dealer_wins_ties,
+        }
+
+class PlayerAction(Enum):
+    hit = "hit"
+    stand = "stand"
+    double = "double"
+    split = "split"
+    surrender = "surrender"
+    buy_insurance = "buy_insurance"
