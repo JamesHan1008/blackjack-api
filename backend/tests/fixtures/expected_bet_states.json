@@ -1,0 +1,2146 @@
+[
+    {
+        "state": {
+            "dealer_cards": [
+                "8"
+            ],
+            "player_cards": [
+                [
+                    "A",
+                    "3"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "6"
+            ],
+            "player_cards": [
+                [
+                    "9",
+                    "9"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 980,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "3"
+            ],
+            "player_cards": [
+                [
+                    "9",
+                    "2"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 970,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "Q"
+            ],
+            "player_cards": [
+                [
+                    "10",
+                    "Q"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 960,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "5"
+            ],
+            "player_cards": [
+                [
+                    "J",
+                    "A"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": false,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 995.0,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": false
+        },
+        "bet_amount": 10,
+        "outcome": 15.0
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "6"
+            ],
+            "player_cards": [
+                [
+                    "4",
+                    "3"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 985.0,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10.0
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "7"
+            ],
+            "player_cards": [
+                [
+                    "4",
+                    "10"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 995.0,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10.0
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "7"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "5"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "9"
+            ],
+            "player_cards": [
+                [
+                    "A",
+                    "8"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "A"
+            ],
+            "player_cards": [
+                [
+                    "K",
+                    "8"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": false,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "J"
+            ],
+            "player_cards": [
+                [
+                    "6",
+                    "9"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1020,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "A"
+            ],
+            "player_cards": [
+                [
+                    "J",
+                    "4"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": false,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "4"
+            ],
+            "player_cards": [
+                [
+                    "J",
+                    "7"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "5"
+            ],
+            "player_cards": [
+                [
+                    "J",
+                    "K"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "10"
+            ],
+            "player_cards": [
+                [
+                    "4",
+                    "2"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "8"
+            ],
+            "player_cards": [
+                [
+                    "2",
+                    "6"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "A"
+            ],
+            "player_cards": [
+                [
+                    "3",
+                    "K"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": false,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1020,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "2"
+            ],
+            "player_cards": [
+                [
+                    "6",
+                    "9"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "9"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "A"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": false,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1025.0,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": false
+        },
+        "bet_amount": 10,
+        "outcome": 15.0
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "9"
+            ],
+            "player_cards": [
+                [
+                    "5",
+                    "Q"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1015.0,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10.0
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "Q"
+            ],
+            "player_cards": [
+                [
+                    "7",
+                    "9"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": false,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": false
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "9"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "K"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 980,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "8"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "6"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "3"
+            ],
+            "player_cards": [
+                [
+                    "10",
+                    "2"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "7"
+            ],
+            "player_cards": [
+                [
+                    "9",
+                    "J"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "3"
+            ],
+            "player_cards": [
+                [
+                    "8",
+                    "A"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "K"
+            ],
+            "player_cards": [
+                [
+                    "9",
+                    "6"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "J"
+            ],
+            "player_cards": [
+                [
+                    "2",
+                    "2"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "J"
+            ],
+            "player_cards": [
+                [
+                    "6",
+                    "9"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "10"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "8"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "Q"
+            ],
+            "player_cards": [
+                [
+                    "10",
+                    "7"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1020,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "3"
+            ],
+            "player_cards": [
+                [
+                    "9",
+                    "K"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1030,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "2"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "3"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1020,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "8"
+            ],
+            "player_cards": [
+                [
+                    "A",
+                    "A"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1030,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "5"
+            ],
+            "player_cards": [
+                [
+                    "9",
+                    "3"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "A"
+            ],
+            "player_cards": [
+                [
+                    "8",
+                    "3"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": false,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 980,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "9"
+            ],
+            "player_cards": [
+                [
+                    "4",
+                    "Q"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 970,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "9"
+            ],
+            "player_cards": [
+                [
+                    "J",
+                    "6"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 980,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "2"
+            ],
+            "player_cards": [
+                [
+                    "6",
+                    "4"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 970,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "Q"
+            ],
+            "player_cards": [
+                [
+                    "3",
+                    "A"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 960,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "4"
+            ],
+            "player_cards": [
+                [
+                    "6",
+                    "10"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": true,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 970,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "4"
+            ],
+            "player_cards": [
+                [
+                    "2",
+                    "10"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "J"
+            ],
+            "player_cards": [
+                [
+                    "9",
+                    "K"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "8"
+            ],
+            "player_cards": [
+                [
+                    "8",
+                    "A"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "J"
+            ],
+            "player_cards": [
+                [
+                    "K",
+                    "J"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1020,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "K"
+            ],
+            "player_cards": [
+                [
+                    "4",
+                    "9"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1030,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "9"
+            ],
+            "player_cards": [
+                [
+                    "A",
+                    "3"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1040,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "10"
+            ],
+            "player_cards": [
+                [
+                    "K",
+                    "5"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1030,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "2"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "J"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "5"
+            ],
+            "player_cards": [
+                [
+                    "K",
+                    "9"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "6"
+            ],
+            "player_cards": [
+                [
+                    "K",
+                    "K"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 0
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "5"
+            ],
+            "player_cards": [
+                [
+                    "J",
+                    "3"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "4"
+            ],
+            "player_cards": [
+                [
+                    "7",
+                    "10"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "9"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "6"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "10"
+            ],
+            "player_cards": [
+                [
+                    "3",
+                    "K"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "9"
+            ],
+            "player_cards": [
+                [
+                    "A",
+                    "9"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1000,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "2"
+            ],
+            "player_cards": [
+                [
+                    "J",
+                    "5"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "4"
+            ],
+            "player_cards": [
+                [
+                    "8",
+                    "7"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1020,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "2"
+            ],
+            "player_cards": [
+                [
+                    "K",
+                    "Q"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": true,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1010,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "5"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "8"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1020,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "Q"
+            ],
+            "player_cards": [
+                [
+                    "7",
+                    "K"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "5"
+            ],
+            "player_cards": [
+                [
+                    "6",
+                    "9"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 980,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "4"
+            ],
+            "player_cards": [
+                [
+                    "2",
+                    "J"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 990,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "2"
+            ],
+            "player_cards": [
+                [
+                    "K",
+                    "6"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 980,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": -10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "3"
+            ],
+            "player_cards": [
+                [
+                    "8",
+                    "Q"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": true,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 970,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": true
+        },
+        "bet_amount": 10,
+        "outcome": 10
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "2"
+            ],
+            "player_cards": [
+                [
+                    "K",
+                    "A"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": false,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1005.0,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": false
+        },
+        "bet_amount": 10,
+        "outcome": 15.0
+    },
+    {
+        "state": {
+            "dealer_cards": [
+                "5"
+            ],
+            "player_cards": [
+                [
+                    "Q",
+                    "A"
+                ]
+            ],
+            "current_hand": 0,
+            "hand_finished": [
+                false
+            ],
+            "hand_is_doubled": [
+                false
+            ],
+            "is_split_valid": false,
+            "is_double_valid": true,
+            "is_surrender_valid": false,
+            "is_insurance_valid": false,
+            "did_split_aces": false,
+            "did_buy_insurance": false,
+            "total_money": 1020.0,
+            "bet_amount": 10,
+            "is_in_game": true,
+            "is_in_round": false
+        },
+        "bet_amount": 10,
+        "outcome": 15.0
+    }
+]
