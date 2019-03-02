@@ -4,7 +4,7 @@ import random
 from django.test import TestCase
 
 from ..models import AI
-from ..autoplay import autoplay
+from ..ai_evaluation import autoplay
 
 
 class TestAutoplay(TestCase):

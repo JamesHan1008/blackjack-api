@@ -1,6 +1,6 @@
 import pandas as pd
 
-from ..models import PlayerAction
+from ..models import Dealer, PlayerAction
 from ..game_controller import _get_value, _is_hand_soft, _get_hand_value
 from .simple_ai import SimpleAI
 
@@ -59,7 +59,8 @@ class BasicStrategyAI(SimpleAI):
             else:
                 return PlayerAction.stand
         elif action == "Ph":
-            if self.state["allow_double_after_split"]:
+            dealer = Dealer.objects.get(id=self.dealer_id)
+            if dealer.allow_double_after_split:
                 if PlayerAction.split not in valid_actions:
                     raise Exception("Split not in valid actions")
                 return PlayerAction.split

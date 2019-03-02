@@ -12,6 +12,7 @@ class BaseAI(ABC):
 
 
     def __init__(self, dealer_id, total_money):
+        self.dealer_id = dealer_id
         self.initiate_state(dealer_id, total_money)
         self._add_dealer_rules()
         self.min_cards_in_deck = 20
