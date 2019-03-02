@@ -2,6 +2,7 @@ from enum import Enum
 
 from django.db import models
 
+
 class Dealer(models.Model):
     name                     = models.CharField(max_length=255)
 
@@ -31,10 +32,19 @@ class Dealer(models.Model):
             "dealer_wins_ties": self.dealer_wins_ties,
         }
 
-class PlayerAction(Enum):
+
+class PlayerAction(str, Enum):
     hit = "hit"
     stand = "stand"
     double = "double"
     split = "split"
     surrender = "surrender"
     buy_insurance = "buy_insurance"
+
+    def __str__(self):
+        return self.value
+
+
+class AI(Enum):
+    simple_ai = "SimpleAI"
+    basic_strategy_ai = "BasicStrategyAI"

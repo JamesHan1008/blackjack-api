@@ -6,15 +6,19 @@ from ..game_controller import *
 
 
 class BaseAI(ABC):
+    """
+    The abstract base class of all AI classes.
+    """
 
 
     def __init__(self, dealer_id, total_money):
-        self._initiate_state(dealer_id, total_money)
+        self.dealer_id = dealer_id
+        self.initiate_state(dealer_id, total_money)
         self._add_dealer_rules()
         self.min_cards_in_deck = 20
 
 
-    def _initiate_state(self, dealer_id, total_money):
+    def initiate_state(self, dealer_id, total_money):
         self.state = {
             "dealer_id": dealer_id,
 
@@ -70,8 +74,8 @@ class BaseAI(ABC):
         while self.state["is_in_game"]:
             initial_money = self.state["total_money"]
             self.state = start_round(
-                state = self.state,
-                bet_amount = self.decide_bet_amount(),
+                state=self.state,
+                bet_amount=self.decide_bet_amount(),
             )
 
             bet_state = {

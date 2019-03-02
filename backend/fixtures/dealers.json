@@ -1,6 +1,22 @@
 [
     {
         "model": "backend.dealer",
+        "pk": 0,
+        "fields": {
+            "name": "Default",
+            "decks": 8,
+            "blackjack_payout": 1.5,
+            "hits_soft_17": true,
+            "allow_insurance": true,
+            "allow_surrender": true,
+            "max_split_hands": 4,
+            "allow_resplit_aces": true,
+            "allow_double_after_split": true,
+            "dealer_wins_ties": false
+        }
+    },
+    {
+        "model": "backend.dealer",
         "pk": 1,
         "fields": {
             "name": "Test1",

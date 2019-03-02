@@ -3,6 +3,9 @@ from .base_ai import BaseAI
 
 
 class SimpleAI(BaseAI):
+    """
+    A simple AI that only makes bets of 10 and stands on all hands.
+    """
 
 
     def decide_bet_amount(self):
