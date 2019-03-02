@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 django = "*"
-"psycopg2" = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
 channels = "*"
@@ -17,6 +16,7 @@ gunicorn = "*"
 dj-database-url = "*"
 whitenoise = "*"
 pandas = "*"
+"psycopg2-binary" = "*"
 
 [dev-packages]
 

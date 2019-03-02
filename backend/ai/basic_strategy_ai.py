@@ -6,6 +6,9 @@ from .simple_ai import SimpleAI
 
 
 class BasicStrategyAI(SimpleAI):
+    """
+    An AI that plays according to the basic optimal strategy based on the dealer's revealed card and the player's cards.
+    """
 
     STRATEGIES_PATH = "backend/ai/strategies/"
 
