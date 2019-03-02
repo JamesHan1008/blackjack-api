@@ -2,9 +2,9 @@
 A version of this project is deployed on Heroku, you can start playing it right away by going to
 `https://jh-blackjack-ui.herokuapp.com/`.
 
-##Usage
+## Usage
 
-###Play Blackjack Locally
+### Play Blackjack Locally
 1. Clone the latest master branches of the following repositories:
     - https://github.com/JamesHan1008/blackjack-api
     - https://github.com/JamesHan1008/blackjack-ui
